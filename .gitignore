@@ -1,0 +1,20 @@
+# Backups
+*.backup
+*.bak
+
+# Credentials and secrets
+.env
+.env.*
+*.key
+*.pem
+*credentials*
+*secrets*
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Raw security telemetry
+alerts.json
+archives.json
